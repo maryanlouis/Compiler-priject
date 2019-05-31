@@ -1,1 +1,0 @@
-(program (programBlocks (classDefine class Main inherits IO { (feature main ( ) : Object { (expr out_string ( (expr "Hello World\n") )) }) ; }) ; (programBlocks <EOF>)))
