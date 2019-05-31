@@ -2,6 +2,8 @@ import org.antlr.v4.runtime.*;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.CommonTokenStream;
 import org.antlr.v4.runtime.tree.ParseTree;
+import org.antlr.v4.runtime.tree.ParseTreeWalker;
+
 import java.io.*;
 import java.util.List;
 import java.util.Scanner;
@@ -26,7 +28,7 @@ public class Main {
 
         Boolean err = false ;
         for (int i = 0 ; i < allTokens.size() ; i++){
-            if (allTokens.get(i).getType() == 52) {
+            if (allTokens.get(i).getType() == 48) {
                 err = true ;
                 System.out.println("Error in line : "
                         +allTokens.get(i).getLine()
@@ -34,6 +36,7 @@ public class Main {
             }
         }
         String treeoutput="";
+        //String threeaddress="";
         if(!err){
             writeUsingBufferedWriter(outputFileName+".cl-lex",allTokens, allTokens.size());
 
@@ -43,7 +46,10 @@ public class Main {
             PrintWriter writer =new PrintWriter("treeoutput.txt","UTF-8");
             writer.println(treeoutput);
             writer.close();
-
+            ThreeAddress address = new ThreeAddress();
+            address.visit(tree);
+            //address.writer.close();
+            
         }
 
 

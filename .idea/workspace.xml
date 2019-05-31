@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="043a7773-21cf-4955-82ec-4397304e5297" name="Default Changelist" comment="" />
+    <list default="true" id="043a7773-21cf-4955-82ec-4397304e5297" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LexerGramCool.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maincopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeAddressCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compilers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Compilers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen/Cool.interp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen/Cool.tokens" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen/CoolBaseListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen/CoolBaseVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen/CoolLexer.interp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen/CoolLexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen/CoolLexer.tokens" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen/CoolListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen/CoolParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen/CoolVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/good.cl" beforeDir="false" afterPath="$PROJECT_DIR$/good.cl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/good.cl-lex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compilers/Cool.g4" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compilers/Cool.g4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compilers/Cool.interp" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compilers/Cool.interp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compilers/Cool.tokens" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compilers/Cool.tokens" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compilers/CoolBaseListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compilers/CoolBaseListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compilers/CoolBaseVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compilers/CoolBaseVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compilers/CoolLexer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compilers/CoolLexer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compilers/CoolLexer.interp" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compilers/CoolLexer.interp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compilers/CoolLexer.tokens" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compilers/CoolLexer.tokens" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compilers/CoolListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compilers/CoolListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compilers/CoolParser$ClassDefineContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compilers/CoolParser$ClassDefineContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compilers/CoolParser$ExprContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compilers/CoolParser$FeatureContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compilers/CoolParser$FeatureContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compilers/CoolParser$FormalContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compilers/CoolParser$FormalContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compilers/CoolParser$ProgramBlocksContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compilers/CoolParser$ProgramBlocksContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compilers/CoolParser$ProgramContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compilers/CoolParser$ProgramContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compilers/CoolParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compilers/CoolParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compilers/CoolVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compilers/CoolVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compilers/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compilers/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cool.g4" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cool.g4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/treeoutput.txt" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,14 +58,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+            <state relative-caret-position="171">
+              <caret line="31" column="21" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ThreeAddress.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+              <folding>
+                <element signature="e#569#570#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+                <element signature="e#835#836#0" expanded="true" />
+                <element signature="e#884#885#0" expanded="true" />
+                <element signature="e#1497#1498#0" expanded="true" />
+                <element signature="e#1522#1523#0" expanded="true" />
+                <element signature="e#4647#4648#0" expanded="true" />
+                <element signature="e#4694#4695#0" expanded="true" />
+                <element signature="e#5637#5638#0" expanded="true" />
+                <element signature="e#5666#5667#0" expanded="true" />
+                <element signature="e#6063#6064#0" expanded="true" />
+                <element signature="e#6105#6106#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/good.cl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/good.cl-lex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-867">
+              <caret selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -39,66 +121,138 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Cool.g4">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1326">
-              <caret line="78" column="46" selection-start-line="78" selection-start-column="46" selection-end-line="78" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/good.cl-lex">
+        <entry file="file://$PROJECT_DIR$/src/LexerGramCool.g4">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-column="4" />
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/good.cl">
+        <entry file="file://$PROJECT_DIR$/gen/CoolLexer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            <state relative-caret-position="17">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Cool.g4">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>local</find>
+      <find>writer</find>
+      <find>visitFalse</find>
+      <find>visit</find>
+      <find>T</find>
+      <find>not</find>
+      <find>visit(ctx.expression(</find>
+      <find>visit(ctx.expression())</find>
+      <find>visit(ctx.expression(1))</find>
+      <find>eof</find>
+      <find>string</find>
+      <find>whil</find>
+      <find>less</find>
+      <find>ownMethodCall</find>
+      <find>lesstha</find>
+      <find>lol6</find>
+      <find>lol</find>
+      <find>blocks</find>
+      <find>err</find>
+      <find>esc</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>visit((ParseTree) ctx.expression(</replace>
+      <replace>visit((ParseTree) ctx.expression().children)</replace>
+      <replace>visit(ctx.expression().parent)</replace>
+      <replace>visit(ctx.expression(1).parent)</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Main.java" />
         <option value="$PROJECT_DIR$/test/good.cl" />
+        <option value="$PROJECT_DIR$/src/LexerGramCool.g4" />
+        <option value="$PROJECT_DIR$/src/threeAddressCode.java" />
+        <option value="$PROJECT_DIR$/src/maincopy.java" />
+        <option value="$PROJECT_DIR$/gen/CoolVisitor.java" />
+        <option value="$PROJECT_DIR$/gen/CoolParser.java" />
+        <option value="$PROJECT_DIR$/src/Cool.g4" />
+        <option value="$PROJECT_DIR$/good.cl" />
+        <option value="$PROJECT_DIR$/src/ThreeAddress.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="105" />
-    <option name="y" value="30" />
-    <option name="width" value="2190" />
-    <option name="height" value="1245" />
+    <option name="x" value="-348" />
+    <option name="width" value="795" />
+    <option name="height" value="789" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Compilers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Compilers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Compilers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Compilers" type="462c0819:PsiDirectoryNode" />
+              <item name="gen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Compilers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Compilers" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559172336060" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\رابعة حاسبات\2nd term\compilers\project\Compilers\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\amr25\Desktop\Compilers" />
       <recent name="C:\Users\amr25\Desktop\Compilers\src" />
@@ -148,21 +302,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.497545" visible="true" weight="0.25718608" />
-      <window_info id="Structure" order="1" sideWeight="0.502455" side_tool="true" visible="true" weight="0.25718608" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49512196" visible="true" weight="0.27651006" />
+      <window_info id="Structure" order="1" sideWeight="0.50487804" side_tool="true" weight="0.26096824" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5021097" side_tool="true" weight="0.2533512" />
-      <window_info anchor="bottom" id="Anonymous Apex" />
-      <window_info anchor="bottom" id="Log Viewer" />
-      <window_info anchor="bottom" id="SOQL Query" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49261746" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -170,9 +321,12 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Tool Output" order="8" weight="0.32956153" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32956153" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5073826" side_tool="true" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="ANTLR Preview" order="11" weight="0.32956153" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49798658" weight="0.3286119" />
+      <window_info anchor="bottom" id="Log Viewer" order="13" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="14" />
+      <window_info anchor="bottom" id="SOQL Query" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -200,13 +354,70 @@
     </entry>
     <entry file="file://H:/cool/parser/src/parser_main.java" />
     <entry file="file://H:/cool/parser/src/Lexer_Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/out/production/Compilers/CoolLexer.tokens">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/Compilers/CoolLexer.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        <state relative-caret-position="-1396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LexerGramCool.tokens" />
+    <entry file="file://$USER_HOME$/sections/ArrayInit/src/TestMain.java" />
+    <entry file="file://$PROJECT_DIR$/bad.cl-lex" />
+    <entry file="file://$PROJECT_DIR$/gen/LexerGramCool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/treeoutput.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/CoolBaseListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/AAA/Main.java" />
+    <entry file="file://E:/AAA/CoolBaseVisitorLocal.java" />
+    <entry file="file://$PROJECT_DIR$/src/maincopy.java" />
+    <entry file="file://E:/رابعة حاسبات/2nd term/compilers/sections/compiler-section-3/ArrayInit/src/TestMain.java" />
+    <entry file="file://E:/رابعة حاسبات/2nd term/compilers/sections/ArrayInit/src/TestMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/threeAddressCode.java" />
+    <entry file="file://$PROJECT_DIR$/gen/CoolListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/CoolVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="109" column="32" lean-forward="true" selection-start-line="109" selection-start-column="32" selection-end-line="109" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AAA/Main.java" />
+    <entry file="file://$PROJECT_DIR$/../AAA/CoolBaseVisitorLocal.java" />
+    <entry file="file://$PROJECT_DIR$/gen/CoolParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1904">
+          <caret line="127" column="46" selection-start-line="127" selection-start-column="46" selection-end-line="127" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/CoolBaseVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -217,24 +428,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Cool.g4">
+    <entry file="file://$PROJECT_DIR$/gen/CoolLexer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="78" column="46" selection-start-line="78" selection-start-column="46" selection-end-line="78" selection-end-column="46" />
+        <state relative-caret-position="17">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/good.cl-lex">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-867">
           <caret selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LexerGramCool.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cool.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/good.cl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreeAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+          <folding>
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#1497#1498#0" expanded="true" />
+            <element signature="e#1522#1523#0" expanded="true" />
+            <element signature="e#4647#4648#0" expanded="true" />
+            <element signature="e#4694#4695#0" expanded="true" />
+            <element signature="e#5637#5638#0" expanded="true" />
+            <element signature="e#5666#5667#0" expanded="true" />
+            <element signature="e#6063#6064#0" expanded="true" />
+            <element signature="e#6105#6106#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -255,6 +511,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

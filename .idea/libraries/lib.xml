@@ -2,9 +2,15 @@
   <library name="lib">
     <CLASSES>
       <root url="file://C:/Program Files/Java/lib" />
+      <root url="file://$USER_HOME$/sections/compiler-section-3/antlr-intellij-plugin-v4/lib" />
+      <root url="file://$USER_HOME$/Downloads/antlr-intellij-plugin-v4/lib" />
+      <root url="file://E:/رابعة حاسبات/2nd term/compilers/sections/compiler-section-3/antlr-intellij-plugin-v4/lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
     <jarDirectory url="file://C:/Program Files/Java/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/antlr-intellij-plugin-v4/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/sections/compiler-section-3/antlr-intellij-plugin-v4/lib" recursive="false" />
+    <jarDirectory url="file://E:/رابعة حاسبات/2nd term/compilers/sections/compiler-section-3/antlr-intellij-plugin-v4/lib" recursive="false" />
   </library>
 </component>
